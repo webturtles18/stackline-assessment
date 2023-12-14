@@ -1,0 +1,12 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+body {
+    background-color: #eef1f4;
+    color: rgb(74, 74, 74);
+}
+
+.apexcharts-toolbar {
+    z-index: 9 !important;
+}
