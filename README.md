@@ -31,7 +31,7 @@ npm install -g json-server
 To launch the fake JSON server, use the following command:
 
 ```bash
-npm json-server --watch db.json --port 3004
+json-server --watch db.json --port 3004
 ```
 
 ### Run UI
