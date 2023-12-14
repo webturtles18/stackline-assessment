@@ -2,7 +2,7 @@ import { Dispatch } from 'redux';
 import { setProduct, setLoading, setError } from '../store/productSlice';
 import { AppThunk } from '../store';
 
-const baseUrl = "http://localhost:3000/"
+const baseUrl = "http://localhost:3004/"
 export const fetchProduct = (id: string): AppThunk => {
     return async (dispatch: Dispatch) => {
         dispatch(setLoading(true));
