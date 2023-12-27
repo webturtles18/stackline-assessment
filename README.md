@@ -1,6 +1,8 @@
 # Stackline Assessment
 
-This project is an assessment for Stackline.
+## React + Redux + Typescript
+
+Preview for demostration
 ![image](https://github.com/webturtles18/stackline-assessment/assets/51959574/c005497d-4ed4-4030-ac9b-d246bb49f9f4)
 
 ## Installation
